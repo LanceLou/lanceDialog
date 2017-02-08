@@ -1,0 +1,28 @@
+{
+  "name": "lancedialog",
+  "version": "1.0.0",
+  "description": "a FED Component provide dialog in your page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanceLou/lanceDialog.git"
+  },
+  "keywords": [
+    "Component",
+    "dialog",
+    "lancelou"
+  ],
+  "author": "LanceLou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LanceLou/lanceDialog/issues"
+  },
+  "homepage": "https://github.com/LanceLou/lanceDialog#readme",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10"
+  }
+}
