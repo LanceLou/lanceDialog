@@ -8,9 +8,11 @@ Demo
 ---
 
 * Demo1(Dialog)
+
 ![demo1](http://ww3.sinaimg.cn/large/ad5d774bjw1fckhjz7vc0j20f807hdfx.jpg)
 
 * Demo2(SelectDialog)
+
 ![demo1](http://ww1.sinaimg.cn/large/ad5d774bjw1fckhjf57rjj20f807jq2z.jpg)
 
 
